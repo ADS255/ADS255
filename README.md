@@ -5,4 +5,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ads255&show_icons=true&layout=compact&theme=tokyonight" alt="ads255" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ads255&theme=tokyonight" alt="ads255" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ads255&theme=tokyonight" alt="ads255" /></p> 
